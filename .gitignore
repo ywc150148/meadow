@@ -1,0 +1,4 @@
+# 此目录标记的文件或目录会被git忽略
+node_modules 
+*~
+.DS_Store
